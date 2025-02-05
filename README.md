@@ -48,3 +48,13 @@ export default tseslint.config({
   },
 })
 ```
+
+# HomePage
+
+<img width="866" alt="HomePage" src="https://github.com/user-attachments/assets/349ff47e-0bb1-4782-864f-2181479b5cb4" />
+
+
+# View Cart Page
+
+<img width="866" alt="CartPage" src="https://github.com/user-attachments/assets/1c9928d2-0c61-4fe0-a66f-5825da4ccfe4" />
+
